@@ -1,0 +1,70 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Diamondra\\Desktop\\ionic_project\\cardApp\\cardApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Diamondra\\Desktop\\ionic_project\\cardApp\\cardApp\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "159,55,100",
+                        "endColumns": "63,44,58",
+                        "endOffsets": "218,95,154"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,164",
+                        "endColumns": "63,44,58",
+                        "endOffsets": "114,159,218"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Diamondra\\Desktop\\mg.songbook.fjff\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Diamondra\\Desktop\\mg.songbook.fjff\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,2,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,55,-1",
+                        "endColumns": "-1,79,-1",
+                        "endOffsets": "-1,130,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,199",
+                        "endColumns": "63,79,58",
+                        "endOffsets": "114,194,253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Diamondra\\Desktop\\IonicApp\\cardApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Diamondra\\Desktop\\IonicApp\\cardApp\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "164,55,105",
+                        "endColumns": "63,49,58",
+                        "endOffsets": "223,100,159"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,169",
+                        "endColumns": "63,49,58",
+                        "endOffsets": "114,164,223"
+                    }
+                }
+            ]
+        }
+    ]
+}

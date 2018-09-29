@@ -1,0 +1,4 @@
+#Thu Sep 06 08:05:41 EAT 2018
+base.0=C\:\\Users\\Diamondra\\Desktop\\mg.songbook.fjff\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+renamed.0=classes.dex
+file.0=C\:\\Users\\Diamondra\\Desktop\\mg.songbook.fjff\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7\\classes.dex
